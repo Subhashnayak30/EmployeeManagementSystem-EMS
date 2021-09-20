@@ -1,8 +1,7 @@
 # EmployeeManagementSystem-EMS
 ## Project Description
 
-The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement. Project User Stories: As an employee I can: - Login - Logout - View the employee home page - Submit a reimbursement request - View pending reimbursement requests - View resolved reimbursement requests - View my account information - Update account information As a manager I can: - Login - Logout - View the manager home page - Approve/Deny pending reimbursement requests - View all pending requests of all employees - View all resolved requests of all employees - View reimbursement requests of a specific employee - View all employees
-The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance admins are authorized to approve and deny requests for expense reimbursement. Project User Stories: As an employee I can: - Login - Logout - View the employee home page - Submit a reimbursement request - View pending reimbursement requests - View resolved reimbursement requests - View my account information - Update account information As a manager I can: - Login - Logout - View the admin home page - Approve/Deny pending reimbursement requests - View all pending requests of all employees - View all resolved requests of all employees - View reimbursement requests of a specific employee - View all employees
+The Employee Management System, EMS, provides all users to use of a blog form platform. The blog form allows all users to share information such as job-related articles, personal development resources, and personal reflections on blog posts. Admin can run the payroll application for all employees. Besides, the admin can create, edit, and delete employee accounts information. In addition to that, all users can create and edit their user information.
 
 ## Technologies Used
 
@@ -19,7 +18,7 @@ To-do list:
 * Using angular instead of HTML/CSS/JS
 ## Getting Started
    
-git remote and origin https://github.com/RashvikaP/Employee-Management-System.git
+git remote and origin https://github.com/Subhashnayak30/EmployeeManagementSystem-EMS
 > Compile and run java code for the server and DB connection
 >  Run code in eclipse IDE
 - Open up the Registration.html file on browser`and fill user details
